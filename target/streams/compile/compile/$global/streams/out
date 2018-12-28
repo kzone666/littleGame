@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/lraulier/Documents/MyFWJGLGame/src/main/scala/org/kzone666/fr/main.scala:4:24: imported `Game' is permanently hidden by definition of class Game in package fr[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport org.kzone666.fr.Game[0m
+[0m[[0m[33mwarn[0m] [0m[0m                       ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

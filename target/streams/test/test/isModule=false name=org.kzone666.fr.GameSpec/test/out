@@ -1,0 +1,6 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mGameSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA new game[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should have a GLFWErrorCallback ane error is generated[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mgame have[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should destroy GLFWErrorCallback at the end of the game *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  pointer [0x7F322D59E000] did not equal null (GameSpec.scala:27)[0m[0m
