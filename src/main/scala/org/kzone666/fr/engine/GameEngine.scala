@@ -1,20 +1,28 @@
 package org.kzone666.fr.engine
 
-import org.lwjgl.glfw.{GLFWErrorCallback, GLFWKeyCallback}
+import org.lwjgl.glfw.{Callbacks, GLFWErrorCallback, GLFWKeyCallback}
 import org.lwjgl.glfw.GLFW.{GLFW_KEY_ESCAPE, GLFW_PRESS}
-import org.lwjgl.glfw.GLFW.{glfwSetWindowShouldClose,glfwWindowShouldClose}
+import org.lwjgl.glfw.GLFW.{glfwDestroyWindow, glfwSetWindowShouldClose, glfwWindowShouldClose}
 import org.lwjgl.glfw.GLFW.glfwSetErrorCallback
 import org.lwjgl.glfw.GLFW.glfwInit
 import org.lwjgl.glfw.GLFW.glfwCreateWindow
 import org.lwjgl.glfw.GLFW.glfwTerminate
 import org.lwjgl.glfw.GLFW.glfwSetKeyCallback
 import org.lwjgl.glfw.GLFW.glfwMakeContextCurrent
+import org.lwjgl.glfw.GLFW.glfwPollEvents
+import org.lwjgl.glfw.GLFW.glfwGetFramebufferSize
+import org.lwjgl.glfw.GLFW.glfwSwapBuffers
+import org.lwjgl.glfw.GLFW.glfwGetTime
+import org.lwjgl.system.MemoryUtil
+
 
 class GameEngine  extends IGameLogic  with  Runnable {
 
   val gameInPlay: Boolean = true
   val secsPerFrame: Long = 20
   val errorCallback:GLFWErrorCallback  = GLFWErrorCallback.createPrint(System.err)
+  val width = MemoryUtil.memAllocInt(1)
+  val height = MemoryUtil.memAllocInt(1)
 
   override def run(): Unit = {
     // Initializing the OpenGL context
@@ -42,20 +50,41 @@ class GameEngine  extends IGameLogic  with  Runnable {
 
     // When done creating a window you can also create the OpenGL context, which is needed for rendering.
     glfwMakeContextCurrent(window)
+    org.lwjgl.opengl.GL.createCapabilities
+
+    /* Declare buffers for using inside the loop */
 
     //#############################################################################################
 
-    while (!glfwWindowShouldClose(window)) gameLoop
+    while (!glfwWindowShouldClose(window)) gameLoop(window)
+
+    //Callbacks.free(window)
+    glfwDestroyWindow(window)
+    keyCallback.free()
+
+    glfwTerminate()
+    errorCallback.free()
   }
   override def handleUserInput: Unit = {println("handle input")}
   override def renderToTheScreen: Unit = {println("push to window")}
   override def updateGameState: Unit = {println("maj data du jeu")}
 
 
-  def gameLoop () = {
+  def gameLoop (window: Long) = {
     println("DEBUG : entrée dans gameLoop")
     //while(gameInPlay) {
       val before: Long = System.currentTimeMillis()
+
+    /* OpenGL calls to render your application*/
+    val time: Double = glfwGetTime()
+
+    glfwSwapBuffers(window)
+    glfwPollEvents()
+
+    glfwGetFramebufferSize(window,width,height)
+
+
+
       handleUserInput /*Window => gameLoop*/
       updateGameState /* calculte new gameSate */
       renderToTheScreen /* gameLoop => Window*/
