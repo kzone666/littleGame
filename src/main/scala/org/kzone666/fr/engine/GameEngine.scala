@@ -11,8 +11,11 @@ class GameEngine {
   first gameLoop def
    */
   def gameLoop() = {
-    handleUserInput
-    updateGameState
-    renderToTheScree
-  }
-}
+
+    while(gameInPlay) {
+      handleUserInput /*Window => gameLoop*/
+      updateGameState /* calculte new gameSate */
+      renderToTheScreen /* gameLoop => Window*/
+    } /* END gameLoop while */
+  } /*END gameLoop*/
+}/*END GameEngine*/

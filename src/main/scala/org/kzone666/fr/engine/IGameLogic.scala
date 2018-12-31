@@ -9,6 +9,6 @@ trait IGameLogic {
    */
   def handleUserInput = ???
   def updateGameState = ???
-  def renderToTheScree = ???
+  def renderToTheScreen = ???
 }
 
