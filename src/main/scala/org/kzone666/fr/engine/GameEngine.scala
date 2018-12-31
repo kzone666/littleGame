@@ -1,13 +1,10 @@
 package org.kzone666.fr.engine
 
-/*
-  moteur du jeu :
-  tant que  'running' => gameLoop
 
- */
-class GameEngine  extends IGameLogic  with  Runnable{
+class GameEngine  extends IGameLogic  with  Runnable {
 
   val gameInPlay: Boolean = true
+  val secsPerFrame: Long = 20
 
   override def run(): Unit = {gameLoop()}
   override def handleUserInput: Unit = {println("handle input")}
@@ -18,9 +15,16 @@ class GameEngine  extends IGameLogic  with  Runnable{
   def gameLoop () = {
     println("DEBUG : entrée dans gameLoop")
     while(gameInPlay) {
+      val before: Long = System.currentTimeMillis()
       handleUserInput /*Window => gameLoop*/
       updateGameState /* calculte new gameSate */
       renderToTheScreen /* gameLoop => Window*/
+      val after:Long = System.currentTimeMillis()
+
+      var tmp = before + secsPerFrame - after
+      println(s"le temps de dormir = $tmp")
+
+      Thread.sleep(before + secsPerFrame - after)
     } /* END gameLoop while */
   } /*END gameLoop*/
 
