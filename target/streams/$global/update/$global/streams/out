@@ -3237,74 +3237,98 @@
 [0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /home/lraulier/.ivy2[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.lwjgl#lwjgl-glfw;3.1.6!lwjgl-glfw.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /home/lraulier/.ivy2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] com.typesafe.slick#slick_2.12;3.2.3!slick_2.12.jar(bundle)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.lwjgl#lwjgl-opengl;3.1.6!lwjgl-opengl.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /home/lraulier/.ivy2[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] com.typesafe.slick#slick_2.12;3.2.3!slick_2.12.jar(bundle)[0m
+[0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /home/lraulier/.ivy2[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scalactic#scalactic_2.12;3.0.5!scalactic_2.12.jar(bundle)[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /home/lraulier/.ivy2[0m
-[0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /home/lraulier/.ivy2[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/lraulier/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/lraulier/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/lraulier/.ivy2/cache[0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/lraulier/.ivy2/cache[0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/lraulier/.ivy2/cache[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/lraulier/.ivy2/cache[0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0msettings loaded (80ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0msettings loaded (86ms)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/lraulier/.ivy2/cache[0m
 [0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
-[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
-[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
-[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
-[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0msettings loaded (82ms)[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/lraulier/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
-[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
-[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
-[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
-[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] com.typesafe#config;1.2.1!config.jar(bundle)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.reactivestreams#reactive-streams;1.0.0!reactive-streams.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-reflect;2.12.8!scala-reflect.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
+[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
+[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
+[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.slf4j#slf4j-api;1.7.25!slf4j-api.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] com.typesafe#config;1.2.1!config.jar(bundle)[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0msettings loaded (98ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/lraulier/.ivy2/cache[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
+[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
+[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
+[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
+[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0msettings loaded (96ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/lraulier/.ivy2/cache[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
+[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
+[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
+[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
+[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.lwjgl#lwjgl-opengl;3.1.6!lwjgl-opengl.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0msettings loaded (66ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/lraulier/.ivy2/cache[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-reflect;2.12.8!scala-reflect.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scalamock#scalamock_2.12;4.1.0!scalamock_2.12.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scalatest#scalatest_2.12;3.0.5!scalatest_2.12.jar(bundle)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.seleniumhq.selenium#selenium-java;2.35.0!selenium-java.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0msettings loaded (103ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/lraulier/.ivy2/cache[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
+[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
+[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
+[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
+[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.lwjgl#lwjgl-glfw;3.1.6!lwjgl-glfw.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(bundle)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.seleniumhq.selenium#selenium-android-driver;2.35.0!selenium-android-driver.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.seleniumhq.selenium#selenium-chrome-driver;2.35.0!selenium-chrome-driver.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0msettings loaded (114ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0msettings loaded (104ms)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/lraulier/.ivy2/cache[0m
 [0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
@@ -3314,78 +3338,54 @@
 [0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
 [0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.seleniumhq.selenium#selenium-htmlunit-driver;2.35.0!selenium-htmlunit-driver.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.lwjgl#lwjgl-glfw;3.1.6!lwjgl-glfw.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.seleniumhq.selenium#selenium-firefox-driver;2.35.0!selenium-firefox-driver.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.seleniumhq.selenium#selenium-ie-driver;2.35.0!selenium-ie-driver.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.seleniumhq.selenium#selenium-firefox-driver;2.35.0!selenium-firefox-driver.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
+[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
+[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
+[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
+[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.seleniumhq.selenium#selenium-iphone-driver;2.35.0!selenium-iphone-driver.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.seleniumhq.selenium#selenium-safari-driver;2.35.0!selenium-safari-driver.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.seleniumhq.selenium#selenium-support;2.35.0!selenium-support.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.webbitserver#webbit;0.4.14!webbit.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.reactivestreams#reactive-streams;1.0.0!reactive-streams.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.seleniumhq.selenium#selenium-remote-driver;2.35.0!selenium-remote-driver.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] cglib#cglib-nodep;2.1_3!cglib-nodep.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scalamock#scalamock_2.12;4.1.0!scalamock_2.12.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.apache.httpcomponents#httpclient;4.2.1!httpclient.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.json#json;20080701!json.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.seleniumhq.selenium#selenium-api;2.35.0!selenium-api.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.apache.httpcomponents#httpclient;4.2.1!httpclient.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] com.google.guava#guava;14.0!guava.jar(bundle)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] cglib#cglib-nodep;2.1_3!cglib-nodep.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.lwjgl#lwjgl;3.1.6!lwjgl.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.apache.commons#commons-exec;1.1!commons-exec.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] net.java.dev.jna#jna;3.4.0!jna.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] net.java.dev.jna#platform;3.4.0!platform.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] commons-logging#commons-logging;1.1.1!commons-logging.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] net.sourceforge.htmlunit#htmlunit;2.12!htmlunit.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] xalan#xalan;2.7.1!xalan.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/lraulier/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] commons-collections#commons-collections;3.2.1!commons-collections.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0msettings loaded (128ms)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/lraulier/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
-[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
-[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
-[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
-[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.apache.commons#commons-lang3;3.1!commons-lang3.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0msettings loaded (119ms)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/lraulier/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.lwjgl#lwjgl;3.1.6!lwjgl.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.apache.httpcomponents#httpmime;4.2.3!httpmime.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
-[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
-[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
-[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
-[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.json#json;20080701!json.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] net.sourceforge.htmlunit#htmlunit-core-js;2.12!htmlunit-core-js.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] xerces#xercesImpl;2.10.0!xercesImpl.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] net.sourceforge.nekohtml#nekohtml;1.9.18!nekohtml.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] net.sourceforge.cssparser#cssparser;0.9.9!cssparser.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] commons-io#commons-io;2.4!commons-io.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.lwjgl#lwjgl-opengl;3.1.6!lwjgl-opengl.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0msettings loaded (142ms)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/lraulier/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
-[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
-[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
-[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
-[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.eclipse.jetty#jetty-websocket;8.1.9.v20130131!jetty-websocket.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] xalan#serializer;2.7.1!serializer.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.apache.httpcomponents#httpcore;4.2.2!httpcore.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] xml-apis#xml-apis;1.4.01!xml-apis.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.w3c.css#sac;1.3!sac.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.eclipse.jetty#jetty-util;8.1.9.v20130131!jetty-util.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.eclipse.jetty#jetty-io;8.1.9.v20130131!jetty-io.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.seleniumhq.selenium#selenium-java;2.35.0!selenium-java.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.eclipse.jetty#jetty-http;8.1.9.v20130131!jetty-http.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] commons-io#commons-io;2.4!commons-io.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] io.netty#netty;3.5.2.Final!netty.jar(bundle)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.12.8!scala-compiler.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] jline#jline;2.14.6!jline.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] net.java.dev.jna#platform;3.4.0!platform.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] net.sourceforge.htmlunit#htmlunit-core-js;2.12!htmlunit-core-js.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] commons-codec#commons-codec;1.7!commons-codec.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m:: resolution report :: resolve 1520ms :: artifacts dl 197ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] jline#jline;2.14.6!jline.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.apache.httpcomponents#httpcore;4.2.2!httpcore.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m:: resolution report :: resolve 2086ms :: artifacts dl 176ms[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for default#myfwjglgame_2.12;0.1 compile produced in /home/lraulier/Documents/MyFWJGLGame/target/scala-2.12/resolution-cache/reports/default-myfwjglgame_2.12-compile.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for default#myfwjglgame_2.12;0.1 runtime produced in /home/lraulier/Documents/MyFWJGLGame/target/scala-2.12/resolution-cache/reports/default-myfwjglgame_2.12-runtime.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for default#myfwjglgame_2.12;0.1 test produced in /home/lraulier/Documents/MyFWJGLGame/target/scala-2.12/resolution-cache/reports/default-myfwjglgame_2.12-test.xml[0m
@@ -3397,5 +3397,5 @@
 [0m[[0m[0mdebug[0m] [0m[0m	report for default#myfwjglgame_2.12;0.1 plugin produced in /home/lraulier/Documents/MyFWJGLGame/target/scala-2.12/resolution-cache/reports/default-myfwjglgame_2.12-plugin.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for default#myfwjglgame_2.12;0.1 pom produced in /home/lraulier/Documents/MyFWJGLGame/target/scala-2.12/resolution-cache/reports/default-myfwjglgame_2.12-pom.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for default#myfwjglgame_2.12;0.1 scala-tool produced in /home/lraulier/Documents/MyFWJGLGame/target/scala-2.12/resolution-cache/reports/default-myfwjglgame_2.12-scala-tool.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	resolve done (1520ms resolve - 197ms download)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	resolve done (2086ms resolve - 176ms download)[0m
 [0m[[0m[0minfo[0m] [0m[0mDone updating.[0m

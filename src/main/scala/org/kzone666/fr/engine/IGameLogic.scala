@@ -7,8 +7,8 @@ trait IGameLogic {
   update game state
   render the screen
    */
-  def handleUserInput = ???
-  def updateGameState = ???
-  def renderToTheScreen = ???
+  def handleUserInput
+  def updateGameState
+  def renderToTheScreen
 }
 
